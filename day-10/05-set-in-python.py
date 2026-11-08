@@ -9,3 +9,14 @@ print(type(my_set))
 sett = set()
 print(sett)
 print(type(sett))
+
+
+#OUTPUT
+
+'''
+{33, 2, 3, 67, 4, 5, 99, 'Osama', 'Saim', 90}
+<class 'set'>
+set()
+<class 'set'>
+
+'''

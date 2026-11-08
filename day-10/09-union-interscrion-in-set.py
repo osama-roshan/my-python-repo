@@ -21,3 +21,11 @@ b = { 1,2,3,4,6,7}
 
 print("a and b intersection")
 print(a & b)
+
+# Output
+
+'''
+a and b intersection
+{1, 2, 3, 4}
+
+'''

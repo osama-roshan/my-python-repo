@@ -10,3 +10,15 @@ print(pythonfruits)
 
 pythonfruits.update(["graps","lichi","mango"])
 print(pythonfruits)
+
+#Output
+
+'''
+
+{'apple', 'banana', 'orage'}
+{'kiwi', 'apple', 'banana', 'orage'}
+{'banana', 'orage', 'kiwi', 'lichi', 'mango', 'apple', 'graps'}
+
+'''
+
+ 

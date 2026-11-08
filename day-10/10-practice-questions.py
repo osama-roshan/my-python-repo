@@ -39,3 +39,13 @@ for name, mark in students.items():
     total = sum(mark)
     avg = total/ len(mark)
     print(f"{name} has scored total marks {total} and average marks {avg:.2f}")
+
+#Output
+
+'''
+    
+Osama has scored total marks 486 and average marks 81.00
+Saim has scored total marks 493 and average marks 82.17
+Ali has scored total marks 488 and average marks 81.33
+    
+'''

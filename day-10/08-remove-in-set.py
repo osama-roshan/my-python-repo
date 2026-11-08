@@ -14,5 +14,6 @@ print(pythonfruits)
 {'banana', 'KIvi', 'orage'}
 {'apple', 'banana', 'KIvi', 'orage'}
 set()
+{'KIvi', 'apple', 'orage'}
 
 '''

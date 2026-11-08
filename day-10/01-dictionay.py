@@ -8,3 +8,15 @@ students = {
 print(students["101"])
 print(students ["101"]["name"])
 print(students["102"]["city"])
+
+
+#Output
+
+'''
+
+{'name': 'Osama', 'age': 19, 'city': 'lahore'}
+Osama
+Islamabad
+
+
+'''
