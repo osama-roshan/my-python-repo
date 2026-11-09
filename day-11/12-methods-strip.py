@@ -5,3 +5,12 @@ pythontext = "   Hello Word   "
 print(pythontext.strip())
 print(pythontext.lstrip())
 print(pythontext.rstrip())
+
+# Output
+
+'''
+Hello Word
+Hello Word   
+   Hello Word
+
+'''

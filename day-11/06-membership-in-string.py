@@ -18,10 +18,17 @@ True
 
 '''
 
-# count all vowels in this string 
+# count all vowels in this string by easy way 
 
 total = 0
 for i in text:
     if i in "aeiouAEIOU":
         total +=1
 print(total)
+
+# Output
+
+'''
+3 
+
+'''

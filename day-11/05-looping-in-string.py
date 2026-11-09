@@ -47,3 +47,21 @@ print(total)
 
 for ind,ch in enumerate(text):
     print(f"ind = {ind}  and ch = {ch}")
+
+# Output
+
+'''
+
+ind = 0  and ch = p
+ind = 1  and ch = r
+ind = 2  and ch = o
+ind = 3  and ch = g
+ind = 4  and ch = r
+ind = 5  and ch = a
+ind = 6  and ch = m
+ind = 7  and ch = m
+ind = 8  and ch = i
+ind = 9  and ch = n
+ind = 10  and ch = g
+
+'''

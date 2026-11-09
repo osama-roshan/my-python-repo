@@ -11,3 +11,21 @@ print(text[10:5:-1])
 print(text[7::-1])
 print(text[::-1])
 print(text[1:8:2])
+
+
+# Output
+
+'''
+
+prog
+rammin
+progra
+mming
+programming
+gnimm
+mmargorp
+gnimmargorp
+rgam
+
+
+'''

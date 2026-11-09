@@ -5,3 +5,11 @@ last = "Roshan"
 
 print(first + last)
 print(first + "  " + last)
+
+#Output
+
+'''
+OsamaRoshan
+Osama  Roshan
+
+'''

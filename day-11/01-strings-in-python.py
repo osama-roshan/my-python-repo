@@ -28,3 +28,11 @@ I am a student
 
 f = "this is also a string"
 print(f"{f}")
+
+
+# Output
+
+'''
+ f "this is also a string"
+
+'''

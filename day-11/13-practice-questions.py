@@ -60,13 +60,13 @@ valid
 
 # Take a phone number in formate of +92-443-3433-43 in which clear all dashes and ad also +92 code
 
-def clean_phonenumber(phone_number:str):
-    phone_number = phone_number.replace("-","")
-    phone_number = phone_number.replace("+92","")
-    print(phone_number)
+# def clean_phonenumber(phone_number:str):
+#     phone_number = phone_number.replace("-","")
+#     phone_number = phone_number.replace("+92","")
+#     print(phone_number)
 
-phone = "+92-443-3433-43"
-clean_phonenumber(phone)
+# phone = "+92-443-3433-43"
+# clean_phonenumber(phone)
 
 # Output
 

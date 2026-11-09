@@ -6,3 +6,14 @@ print(text.count("  "))
 print(text.find("a"))
 print(text.index("a"))
 print(text.replace("a","z"))
+
+# Output
+
+'''
+
+0
+2
+2
+Oszmz is z student
+
+'''

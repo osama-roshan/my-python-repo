@@ -1,4 +1,4 @@
-# Case Conversion in srtings
+# Methods Case Conversion in srtings
 
 text = "Osama is a student"
 ans = text.upper()
@@ -21,6 +21,7 @@ OSAMA IS A STUDENT
 osama is a student
 Osama Is A Student
 Osama is a student
+oSAMA IS A STUDENT
 
 '''
 
