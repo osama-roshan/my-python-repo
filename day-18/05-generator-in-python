@@ -1,0 +1,15 @@
+# Generator in Python
+
+def my_generator():
+    for i in range(5000):
+        yield i
+
+
+gen = my_generator()
+
+for j in gen:
+    print(j)
+
+# Output
+
+'''It will print 5000 digits'''
